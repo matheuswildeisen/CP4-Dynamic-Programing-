@@ -63,7 +63,7 @@ A decisão mais importante foi separar a priorização local da seleção ótima
 - Resultado esperado atual: 5 passed.
 
 ### Como rodar:
-python3 -m pip install -r requirements.txt
-python3 -m src.generate_data
-python3 run_experiments.py
-python3 -m pytest -q
+- python3 -m pip install -r requirements.txt
+- python3 -m src.generate_data
+- python3 run_experiments.py
+- python3 -m pytest -q
